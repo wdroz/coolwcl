@@ -1,0 +1,12 @@
+[package]
+name = "coolwcl"
+version = "1.0.0"
+edition = "2021"
+license = "GPL-3.0-or-later"
+readme = "README.md"
+homepage = "https://github.com/wdroz/coolwcl"
+description = "Cooler WC -l written in Rust"
+keywords = ["tools", "CLI"]
+categories = ["command-line-utilities"]
+
+[dependencies]
